@@ -95,9 +95,7 @@ Passionate about building AI-powered applications, Machine Learning models, NLP 
 - 🩺 **Medical Chatbot using RAG**
 - 🤖 **AI Job Hunt Agent**
 - 👁️ **Industrial Computer Vision System**
-- 🌿 **Potato Leaf Disease Detection**
 - 🚗 **Self-Driving Car Steering Angle Prediction**
-- 📧 **Spam Email Detection using Machine Learning**
 
 ---
 
